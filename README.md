@@ -1,6 +1,6 @@
-# 🚀 Segment Anything 2.0 Docker Container
+# 🚀 Segment Anything 2 Docker Container
 
-Easily build and launch a Docker container for the **Segment Anything 2.0** project by Facebook Research! This repository offers a streamlined way to set up and run the project in a consistent environment, eliminating worries about dependencies and configurations.
+Easily build and launch a Docker container for the **Segment Anything 2** project by Facebook Research! This repository offers a streamlined way to set up and run the project in a consistent environment, eliminating worries about dependencies and configurations.
 
 ## 🔧 Prerequisites
 
