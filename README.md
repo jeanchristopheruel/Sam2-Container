@@ -19,7 +19,7 @@ docker build -t sam2-container .
 
 Once the build is complete, you can run the container with: 
 ```sh
-docker run -it --rm sam2-container bash
+docker run -it --rm --gpus all sam2-container bash
 ```
 
 
