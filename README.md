@@ -17,7 +17,7 @@ docker run -it --rm --gpus all jeanchristopheruel/sam2-container:latest bash
 
 ### Build and Run from this repo
 
-To build the Docker container for Segment Anything 2.0, use the following command:
+To build the Docker container for Segment Anything 2, use the following command:
 ```sh
 docker build -t sam2-container .
 ```
